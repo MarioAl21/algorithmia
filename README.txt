@@ -1,0 +1,3 @@
+In this directory I will create scripts to study algorithms.
+In what languages?
+That's doesn't matter...
